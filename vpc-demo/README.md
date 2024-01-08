@@ -1,1 +1,0 @@
-# This is for 3 tier application infrastructure
